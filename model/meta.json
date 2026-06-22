@@ -1,0 +1,100 @@
+{
+  "best_model": "Logistic Regression",
+  "feature_names": [
+    "age",
+    "sex",
+    "cp",
+    "trestbps",
+    "chol",
+    "fbs",
+    "restecg",
+    "thalach",
+    "exang",
+    "oldpeak",
+    "slope",
+    "ca",
+    "thal"
+  ],
+  "feature_labels": {
+    "age": "Age",
+    "sex": "Sex (1=M, 0=F)",
+    "cp": "Chest Pain Type",
+    "trestbps": "Resting BP (mmHg)",
+    "chol": "Cholesterol (mg/dl)",
+    "fbs": "Fasting Blood Sugar >120",
+    "restecg": "Resting ECG",
+    "thalach": "Max Heart Rate",
+    "exang": "Exercise Angina",
+    "oldpeak": "ST Depression",
+    "slope": "ST Slope",
+    "ca": "Major Vessels (0-3)",
+    "thal": "Thalassemia"
+  },
+  "ranges": {
+    "age": {
+      "min": 29.0,
+      "max": 77.0,
+      "mean": 53.687
+    },
+    "sex": {
+      "min": 0.0,
+      "max": 1.0,
+      "mean": 0.692
+    },
+    "cp": {
+      "min": 0.0,
+      "max": 3.0,
+      "mean": 2.125
+    },
+    "trestbps": {
+      "min": 90.0,
+      "max": 190.0,
+      "mean": 130.796
+    },
+    "chol": {
+      "min": 120.0,
+      "max": 405.0,
+      "mean": 245.677
+    },
+    "fbs": {
+      "min": 0.0,
+      "max": 1.0,
+      "mean": 0.129
+    },
+    "restecg": {
+      "min": 0.0,
+      "max": 2.0,
+      "mean": 0.514
+    },
+    "thalach": {
+      "min": 76.0,
+      "max": 202.0,
+      "mean": 149.144
+    },
+    "exang": {
+      "min": 0.0,
+      "max": 1.0,
+      "mean": 0.333
+    },
+    "oldpeak": {
+      "min": 0.0,
+      "max": 6.2,
+      "mean": 1.1074
+    },
+    "slope": {
+      "min": 0.0,
+      "max": 2.0,
+      "mean": 1.11
+    },
+    "ca": {
+      "min": 0.0,
+      "max": 3.0,
+      "mean": 0.673
+    },
+    "thal": {
+      "min": 1.0,
+      "max": 3.0,
+      "mean": 1.841
+    }
+  }
+}
