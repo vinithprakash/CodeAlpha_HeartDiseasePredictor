@@ -177,8 +177,6 @@ streamlit run app.py
 
 **Vinith Prakash B**
 Machine Learning Intern — CodeAlpha
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
-
 ---
 
 ## 🏢 About CodeAlpha
